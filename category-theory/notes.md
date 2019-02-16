@@ -1,4 +1,6 @@
-<http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf>
+
+
+[TOC]
 
 # Chapter 1. Preliminaries
 
@@ -418,3 +420,7 @@ Exist e, for any a = a * e = a
 
 
 category of subset (a partial order set )
+
+
+## Reference
+http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf
