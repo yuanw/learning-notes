@@ -2,7 +2,19 @@
 
 
 
-## Install Nix
+## Install Nix (Single User)
+
+`sh <(curl https://nixos.org/nix/install) --no-daemon` from nix [manual](https://nixos.org/nix/manual/#sect-single-user-installation).
+
+
+
+## Uninstall Nix (Single User)
+
+`rm -rf /nix`
+
+
+
+## Exercise (A todo MVP app with miso and scotty)
 
 
 
